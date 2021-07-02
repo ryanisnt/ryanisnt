@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Ryan Bhowmik </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Pronoy Bhowmik </h1>
 
 <p align="center" width="150px">Development Lead at Engate LLC. Previously - Intrusion Detection analyst at Equibeacon LLC. <br>Soon, I would be joining my team for our Cryptocurrency application launch</p>
 
